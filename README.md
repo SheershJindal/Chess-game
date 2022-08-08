@@ -8,6 +8,6 @@
   - Made using Unity3D 2021 version. 
   - Project includes 3D models taken from the Unity store.
 ----------------------------------------
-P.S. - The project is ongoing and incomplete. 
-Last Updated: Turn based game with all chess moves.
+P.S. - The project is ongoing and incomplete. <br>
+Last Updated: Turn based game with all chess moves. <br>
 Next milestone: Checkmate and wining the game.
